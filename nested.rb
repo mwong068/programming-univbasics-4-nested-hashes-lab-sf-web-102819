@@ -88,8 +88,8 @@ def adding_matz
         }
      }
 
-yuki = programmer_hash[:yukihiro_matsumoto]
-yuki[:known_for] = "Ruby"
+programmer_hash[:yukihiro_matsumoto]
+
 
 
 
