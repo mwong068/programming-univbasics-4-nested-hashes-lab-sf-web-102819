@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-yuki = Hash.new() 
+yuki = Hash.new(:yukihiro_matsumoto) 
 
 
 
