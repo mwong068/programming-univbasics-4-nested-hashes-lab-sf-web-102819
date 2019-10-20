@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-yuki = programmer_hash.new() 
+yuki = Hash.new() 
 
 
 
