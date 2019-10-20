@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-yuki = Hash.new(:yukihiro_matsumoto) 
+yuki = programmer_hash[:yukihiro_matsumoto]
 
 
 
