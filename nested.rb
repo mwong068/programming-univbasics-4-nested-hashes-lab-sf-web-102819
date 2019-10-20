@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-yuki = programmer_hash[:yukihiro_matsumoto]
+programmer_hash[:yukihiro_matsumoto]
 yuki[:known_for]
 yuki[:languages] = ["LISP", "C"]
 
